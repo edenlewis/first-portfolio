@@ -3,10 +3,7 @@
   color: #e992ff;
   font-family: "Courier New", Courier, monospace;
 }
-#header {
-  border-radius: 2px;
-  border-color: #e992ff;
-  border-style: solid;
+.header {
   height: 100px;
   display: flex;
   justify-content: center;
@@ -21,9 +18,6 @@
   font-size: 40px;
 }
 #sec {
-  border-radius: 2px;
-  border-color: #e992ff;
-  border-style: solid;
   margin: 60px;
 }
 .titles {
@@ -54,4 +48,21 @@ p {
   height: 300px;
   align-items: stretch;
   /* margin: 20px; */
+}
+.resume{
+  margin-left: 50%;
+  color: #e992ff;
+  font-size: 30px;
+}
+.contact{
+  margin-left: 20%;
+  color: #e992ff;
+  font-size: 30px;
+}
+.color{
+  color: #e992ff;
+}
+.hrf{
+  color: #e992ff;
+  padding: 5px;
 }
